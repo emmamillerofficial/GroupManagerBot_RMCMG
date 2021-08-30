@@ -1,5 +1,5 @@
 # <h1 align=center>GroupManagerBot</h1>
-<img src = "https://user-images.githubusercontent.com/84823049/120094205-a4157400-c13c-11eb-9a72-8d1111809eb5.jpg">
+<img src = "https://user-images.githubusercontent.com/89684087/131297601-77829e5a-8785-4483-b81b-c3ef0492a7fb.jpg">
 
 # ᴡʜᴀᴛ ɪs GroupManagerBot
 GroupManagerBot ɪs ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴍᴀɴʏ ғᴇᴀᴛᴜʀᴇs. ᴛʜɪs ʙᴏᴛ ʜᴇʟᴘs ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘs ᴇᴀsɪʟʏ.
