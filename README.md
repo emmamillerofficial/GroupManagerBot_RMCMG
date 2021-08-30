@@ -1,9 +1,9 @@
-# Manager
+# GroupManagerBot_RMCMG
 🔃
 
 ## DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/Manager.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/emmamillerofficial/GroupManagerBot_RMCMG.git)
 
-## Tutorial
-Watch on [YouTube](https://youtu.be/gXXFpTAk6Vo)
+## MY OWNER
+Watch on [Mukesh Solanki](t.me/mkspali)
 
