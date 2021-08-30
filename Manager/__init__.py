@@ -1,5 +1,5 @@
-# All codes are from SaitamaRobot
-# All credits go to https://github.com/AnimeKaizoku/SaitamaRobot
+# All codes are from GroupManagerBot_RMCMG
+# All credits go to https://github.com/emmamillerofficial/GroupManagerBot_RMCMG
 
 import logging
 import os
