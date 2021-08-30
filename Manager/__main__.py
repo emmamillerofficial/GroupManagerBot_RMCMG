@@ -1,5 +1,5 @@
-# All codes are from SaitamaRobot
-# All credits go to https://github.com/AnimeKaizoku/SaitamaRobot
+# All codes are from GroupManagerBot_RMCMG
+# All credits go to https://github.com/emmamillerofficial/GroupManagerBot_RMCMG
 
 import importlib
 import re
@@ -24,7 +24,7 @@ Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you.
 
-My owner is [Aditya 🇮🇳](t.me/xditya)
+My owner is [Mukesh Solanki](t.me/mkspali)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
@@ -41,12 +41,12 @@ Group Management Bot with advanced features.
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
  
-Pls note that this repo is based on Saitama Bot and GroupManager Bot.
+Pls note that this repo is based on GroupManagerBot_RMCMG.
 
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
-DONATE_STRING = """Heya, glad to hear you want to donate! I'm not accepting any donations right now, still, if needed, drop a thanks to @xditya."""
+DONATE_STRING = """Heya, glad to hear you want to donate! I'm not accepting any donations right now, still, if needed, drop a thanks to @mkspali."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -367,7 +367,7 @@ def donate(bot: Bot, update: Update):
     if chat.type == "private":
         update.effective_message.reply_text(DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True)
 
-        if OWNER_ID != 254318997 and DONATION_LINK:
+        if OWNER_ID != 412094015 and DONATION_LINK:
             update.effective_message.reply_text("You can also donate to the person currently running me "
                                                 "[here]({})".format(DONATION_LINK),
                                                 parse_mode=ParseMode.MARKDOWN)
