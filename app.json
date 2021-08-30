@@ -25,7 +25,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations.",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "https://t.me/mkspali"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -38,20 +38,20 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "792109647"
+         "value": "412094015"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "AnimeKaizoku"
+         "value": "mkspali"
       },
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.)",
          "required": false,
-         "value": "660565862 792109647"
+         "value": "412094015"
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
-         "value": "-123"
+         "value": "-1001438874893"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -73,17 +73,17 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "459034222 189005567 660565862 346981140 367222759"
+         "value": "412094015"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "615304572"
+         "value": "412094015"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": ""
+         "value": "412094015"
       },
       "TOKEN": {
          "description": "Your bot token.",
@@ -93,12 +93,12 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: @MyGroupChatUsernameBlah.",
          "required": true,
-         "value": ""
+         "value": "@RMCMG"
       },   
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
          "required": false,
-         "value": ""
+         "value": "https://name.herokuapp.com/"
       },
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks.",
@@ -113,7 +113,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": ""
+         "value": "412094015"
       }
    },
    "keywords": [
@@ -123,6 +123,6 @@
       "manager",
       "Saitama"
    ],
-   "name": "Manager",
-   "repository": "https://github.com/xditya/Manager"
+   "name": "GroupManagerBot_RMCMG",
+   "repository": "https://github.com/emmamillerofficial/GroupManagerBot_RMCMG"
 }
